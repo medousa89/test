@@ -1,0 +1,18 @@
+{
+    "sdg8": {
+        "20200209.zip": {
+            "date": 1581281290, 
+            "public": "Y", 
+            "link": "http://188.165.252.42/download/osmio4k/Satdreamgr-8-osmio4k-20200209.zip 
+            "name": "Satdreamgr-8-osmio4k-20200209.zip", 
+            "size": 88521626
+        }, 
+        "20200209-multiboot.zip": {
+            "date": 1581281310, 
+            "public": "Y", 
+            "link": "http://188.165.252.42/download/osmio4k/Satdreamgr-8-osmio4k-20200209-multiboot.zip", 
+            "name": "Satdreamgr-8-osmio4k-20200209-multiboot.zip", 
+            "size": 88521626
+        }, 
+    }
+}
